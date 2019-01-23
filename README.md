@@ -1,6 +1,6 @@
 ## Quick Start
-Git clone, pip install -r requirements.txt\ 
-Insert API keys for free or premium accounts in GreatDeepState/scripts: Shodan, Emailhunter, Censys\
+Git clone, pip install -r requirements.txt  
+Insert API keys for free or premium accounts in GreatDeepState/scripts: Shodan, Emailhunter, Censys  
 Run GDS.py
 
 ## Docker version
